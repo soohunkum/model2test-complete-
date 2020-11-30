@@ -3,7 +3,6 @@
 	<name>model2test(complete)</name>
 	<comment></comment>
 	<projects>
-		<project>cos</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
